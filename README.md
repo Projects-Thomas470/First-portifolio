@@ -1,3 +1,3 @@
 # First-portifolio
 
-First Portifolio using html  and css
+First Portifolio made with html  and css
