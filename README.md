@@ -1,6 +1,6 @@
 # First-portifolio
 
-First Portifolio made in HTML and CSS.
+First Portifolio I ever made in HTML and CSS.
 
  Link: https://projects-thomas470.github.io/First-portifolio/
  <br>
